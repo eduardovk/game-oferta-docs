@@ -1,1 +1,1 @@
-![Canvas MVP](https://github.com/eduardovk/TCC/blob/master/Canvas_MVP.png?raw=true)
+![Canvas MVP](https://github.com/eduardovk/game-oferta-docs/blob/master/Canvas_MVP.png?raw=true)
