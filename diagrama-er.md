@@ -1,0 +1,1 @@
+![Diagrama Entidade-Relacionamento](https://github.com/eduardovk/game-oferta-docs/blob/master/Diagrama_ER.png?raw=true)

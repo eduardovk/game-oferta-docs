@@ -1,0 +1,1 @@
+![Diagrama de Processos (BPM) - Atualização de Preços](https://github.com/eduardovk/game-oferta-docs/blob/master/BPM_Precos.png?raw=true)
