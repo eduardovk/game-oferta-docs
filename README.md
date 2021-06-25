@@ -6,6 +6,7 @@ As etapas de planejamento, desenvolvimento e conclusão serão abordadas neste d
 ## [Canvas MVP](canvas-mvp.md)
 ## [Documentação Medium](https://medium.com/@eduardo_vk/gameoferta-facilitador-de-pesquisa-de-pre%C3%A7os-de-jogos-digitais-b8b3631ac50a)
 ## [Diagrama Entidade-Relacionamento](diagrama-er.md)
+## [Diagrama de Processos (BPM) - Utilização do Site](bpm-usuario.md)
 ## [Diagrama de Processos (BPM) - Atualização de Preços](bpm-precos.md)
 
 Além deste repositório exclusivo para documentação, este projeto está distribuído em mais três repositórios:
