@@ -3,8 +3,8 @@
 Este repositório tem como finalidade apresentar a documentação do projeto final elaborado no curso de Análise e Desenvolvimento de Sistemas (SENAC Porto Alegre), chamado "GameOferta".
 As etapas de planejamento, desenvolvimento e conclusão serão abordadas neste documento, assim como os artefatos produzidos durante sua concepcção.
 
-## [Canvas MVP](canvas-mvp.md)
 ## [Documentação Medium](https://medium.com/@eduardo_vk/gameoferta-facilitador-de-pesquisa-de-pre%C3%A7os-de-jogos-digitais-b8b3631ac50a)
+## [Canvas MVP](canvas-mvp.md)
 ## [Diagrama Entidade-Relacionamento](diagrama-er.md)
 ## [Diagrama de Processos (BPM) - Utilização do Site](bpm-usuario.md)
 ## [Diagrama de Processos (BPM) - Atualização de Preços](bpm-precos.md)
