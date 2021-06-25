@@ -1,1 +1,1 @@
-![Diagrama de Processos (BPM) - Utilização do Site](https://github.com/eduardovk/game-oferta-docs/blob/master/BPM_Usuario.png?raw=true)
+![Diagrama de Processos (BPM) - Utilização do Site](https://github.com/eduardovk/game-oferta-docs/blob/master/BPM_Usuario.PNG?raw=true)
